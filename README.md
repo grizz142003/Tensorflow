@@ -7,7 +7,7 @@ Using A virtual environment with tensorflow installed. there is also other libra
 Setting up the Venv is relatively simple follow along with the official tensorflow Documentation https://www.tensorflow.org/install/pip
 
 ## TFdoc 4 ISSUE
-when attempting to run the code inside TFdoc4 posted in this repo, you may run into an issue, this can be resolved by switching to google collab and running these 2 lines of code__
-pip install tensorflow==2.13.0__
-tensorflow-hub==0.13.0__
+when attempting to run the code inside TFdoc4 posted in this repo, you may run into an issue, this can be resolved by switching to google collab and running these 2 lines of code  
+pip install tensorflow==2.13.0  
+tensorflow-hub==0.13.0  
 unfortunately I haven't figured out how to install older versions of tensorflow on my ubuntu machine, Moved onto the next learning document, will revisit later.
