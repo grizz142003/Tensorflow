@@ -90,4 +90,3 @@ history = model.fit(
 loss, accuracy =  model.evaluate(testds)
 
 print(loss, accuracy)
-
