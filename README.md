@@ -7,7 +7,7 @@ Using A virtual environment with tensorflow installed. there is also other libra
   
 Setting up the Venv is relatively simple follow along with the official tensorflow Documentation https://www.tensorflow.org/install/pip   
 
-##Venv Using Bash Script
+## Venv Using Bash Script
 I also created a simple bash script which you can run which should create a venv with the necessary modules to run the code, unfortunately it will not install the version of tensorflow which uses your gpu as that would need gpu drivers and would require you to link the drivers to tensorflow. Instead the script directs you to the webpage which shows how to install that. Below are instructions on how to run the script.  
 
 1. Download the script from the repository,
